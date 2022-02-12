@@ -8,11 +8,11 @@ In this repository, I am practiced and implemented various machine learning algo
 
 ## Task 01. Amazon_Food_Reviews_Featurization
 
-### First We want to know What is Amazon Fine Food Review Analysis?
-This dataset consists of reviews of fine foods from amazon. The data span a period of more than 10 years, including all ~500,000 reviews up to October 2012. Reviews include product and user information, ratings, and a plaintext review. We also have reviews from all other Amazon categories.
+First and foremost, we'd like to know What is Amazon Fine Food Review Analysis, and how does it work?
+This dataset contains Amazon reviews of exquisite meals. The data spans more than a decade, with all 500,000 reviews up to October 2012 included. Product and user information, ratings, and a plaintext review are all included in reviews. We also have feedback from all of Amazon's other categories.
 
-Amazon reviews are often the most publicly visible reviews of consumer products. As a frequent Amazon user, I was interested in examining the structure of a large database of Amazon reviews and visualizing this information so as to be a smarter consumer and reviewer.
 
+Amazon evaluations are frequently the most visible consumer product reviews. As a frequent Amazon customer, I was intrigued by the idea of visualizing the structure of a vast collection of Amazon reviews in order to become a more informed consumer and reviewer.
 Source: https://www.kaggle.com/snap/amazon-fine-food-reviews
 
 ### Introduction
@@ -42,6 +42,6 @@ Given a review, determine whether the review is positive (Rating of 4 or 5) or n
 
 [Q] How to determine if a review is positive or negative?
 
-[Ans] We could use the Score/Rating. A rating of 4 or 5 could be cosnidered a positive review. A review of 1 or 2 could be considered negative. A review of 3 is nuetral and ignored. This is an approximate and proxy way of determining the polarity (positivity/negativity) of a review.
+[Ans] We might make use of the Score/Rating system. A 4 or 5 star rating could be considered a favourable review. A rating of 1 or 2 could be construed as unfavorable. A score of 3 indicates that the review is neutral and should be ignored. This is a rough and proximal method of determining a review's polarity (positivity/negativity).
 
-To Know the Complete overview of the Amazon Food review dataset and Featurization visit my [medium blog](https://medium.com/analytics-vidhya/amazon-fine-food-reviews-featurization-with-natural-language-processing-a386b0317f56)
+
